@@ -1,4 +1,4 @@
-2modify
+2modify next
 import java.util.Scanner;  
 public class Main {  
       
